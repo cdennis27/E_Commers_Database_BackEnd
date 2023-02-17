@@ -29,7 +29,9 @@
   ![ScreenShots of Application in use.](./assets/screenshot3.jpg)
    <br>
 
-  3rd: Rememeber to seed before testing: Type "npm run seed" on prompt, inside the root folder.<br> 
+  3rd: Remember to seed before testing
+    -First: Go to the db folder using prompt, and login into the database with MySQL credentials, type "source schema.sql;" and quit MySQL CLI.<br>
+    -Second: Type "npm run seed" on prompt, inside the root folder.<br> 
 
   4th: Run "npm start" at command prompt, make sure you have Node.js installed. Please check node installation tutorials for more information:
   https://nodejs.org/en/
@@ -48,11 +50,11 @@
 
   ## Link to tutorial video how to install and use application
 
-  https://drive.google.com/file/d/1yqm3ADj85x0WGhxaKwBq-j4GoGfqV1D6/view
+  https://drive.google.com/file/d/19dgiK0x3aryPPAZf_FLr3tDKwTZ184dU/view
 
   ## Link to Project Repository
 
-  https://github.com/cdennis27/Employee-Tracker
+  https://github.com/cdennis27/E_Commers_Database_BackEnd
 
   ## Requirements
 
